@@ -429,7 +429,7 @@ void ShowEndScreen()
 	cout << "-----------------------------------\n";
 }
 
-void PerforMainMenueOption(enMainMenueOptions MainMenueOption)
+void PerformMainMenueOption(enMainMenueOptions MainMenueOption)
 {
 	switch (MainMenueOption)
 	{
@@ -467,6 +467,9 @@ void PerforMainMenueOption(enMainMenueOptions MainMenueOption)
 		system("cls");
 		ShowEndScreen();
 		break;
+
+		default:
+		break;
 	}
 }
 
@@ -483,7 +486,7 @@ void ShowMainMenueScreen()
 	cout << "            [6] Exit.                                      " << endl;
 	cout << "===========================================================" << endl;
 
-	 PerforMainMenueOption(ReadMainMenueScreen());
+	 PerformMainMenueOption(ReadMainMenueScreen());
 
 }
 
