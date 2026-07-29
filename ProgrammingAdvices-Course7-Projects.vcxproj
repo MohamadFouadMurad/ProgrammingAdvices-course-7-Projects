@@ -19,10 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Project 1 - Bank System.cpp" />
-    <ClCompile Include="Project 2 - Bank Extension.cpp">
+    <ClCompile Include="01- Project 1 - Bank System.cpp" />
+    <ClCompile Include="02- Project 2 - Bank Extension.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyFunction.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
