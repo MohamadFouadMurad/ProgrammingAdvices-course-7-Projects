@@ -11,7 +11,7 @@ Welcome to my C++ projects repository! This showcase contains interactive, conso
 
 * **Tech Stack:** C++
 * **Key Features:** Client management, deposit/withdraw operations, and structured file saving.
-* **Source Code:** [`Project 1 - Bank System.cpp`](https://github.com/MohamadFouadMurad/ProgrammingAdvices-course-7-Projects/blob/Main/01-%20Project%201%20-%20Bank%20System.cpp)
+* **Source Code:** * [Project 1 - Bank System](01-%20Project%201%20-%20Bank%20System.cpp)
 
 ----
 
@@ -20,7 +20,7 @@ Welcome to my C++ projects repository! This showcase contains interactive, conso
 
 * **Tech Stack:** C++
 * **Key Features:** Multi-user login system, permission management, and audit tracking.
-* **Source Code:** [`Project 2 - Bank Extension.cpp`](./Project%202%20-%20Bank%20Extension.cpp)
+* **Source Code:** [Project 2 - Bank Extension](02-%20Project%202%20-%20Bank%20Extension.cpp)
 
 ----
 
