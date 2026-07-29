@@ -11,7 +11,7 @@ Welcome to my C++ projects repository! This showcase contains interactive, conso
 
 * **Tech Stack:** C++
 * **Key Features:** Client management, deposit/withdraw operations, and structured file saving.
-* **Source Code:** * [Project 1 - Bank System](01-%20Project%201%20-%20Bank%20System.cpp)
+* **Source Code:** [Project 1 - Bank System](01-%20Project%201%20-%20Bank%20System.cpp)
 
 ----
 
