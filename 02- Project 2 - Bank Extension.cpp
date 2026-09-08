@@ -703,7 +703,7 @@ void PerformTransactionMenueOption(enTransactionMenue TransactionMenueOption)
 	ShowMainMenueScreen();
 
 	default:
-	break;
+		break;
 	}
 }
 
@@ -727,7 +727,7 @@ void ShowMainMenueScreen()
 
 void GoBackToMainMenue()
 {
-	cout << "\n\n Prees any key to go back to main menue... ";
+	cout << "\n\n Prees any key to go back to main menue...";
 	system("pause>0");
 	system("cls");
 	ShowMainMenueScreen();
